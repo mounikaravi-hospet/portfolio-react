@@ -1,0 +1,30 @@
+[
+  {
+    "role": "React Native Intern",
+    "organisation": "LivestockCity",
+    "startDate": "Jun, 2023",
+    "endDate": "Present",
+    "experiences": ["Working on a real estate mobile application", "Integrating RESTful APIs"],
+    "imageSrc": "history/lsc.jpg"
+  },
+  {
+    "role": "Graduate Teaching Assistant",
+    "organisation": "Georgia State University",
+    "startDate": "Aug, 2021",
+    "endDate": "May, 2023",
+    "experiences": ["Supervised undergraduate students in Software Engineering, Python, and Web Development", "Helped professors in setting up the course curricula"],
+    "imageSrc": "history/gsu.jpg"
+  },
+  {
+    "role": "Software Developer",
+    "organisation": "Infosys Ltd.,",
+    "startDate": "Sep, 2019",
+    "endDate": "May, 2021",
+    "experiences": [
+      "Designed dynamic and multi-browser compatible pages using Angular",
+      "Used JIRA to keep track of the project",
+      "Developed cross-browser and responsive applications using Bootstrap and CSS"
+    ],
+    "imageSrc": "history/infosys.jpg"
+  }
+]
